@@ -1,0 +1,259 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#852ec3",
+            "lang-select-color": "#222829",
+            "bg-light": "#470788",
+            "welcome-bonus-bg": "#420586",
+            "top-games-hover-fg": "#30faae",
+            "main-bg": "#5912a1",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#852ec3",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#05773b",
+            "yellow": "#ffa91e",
+            "yellow-button": "#30faae",
+            "button-text": "#5912a1",
+            "border-color": "#efefdc",
+            "casino-cards": "#420586",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#420586",
+            "faq-label": "#420586",
+            "bg-footer": "#420586",
+            "copyright": "#e7e7d5",
+            "starColor": "#17d26a",
+            "baseFont": {
+                "value": "https:\/\/stage.backend.builder.adkey.org:443\/api\/fonts\/download\/14",
+                "isCustom": true
+            },
+            "primaryFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/140"
+        },
+        "seoGlobal": {
+            "name": "Paf Casino Sverige",
+            "ogImage": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/141",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "favicon": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/142"
+        },
+        "header": {
+            "logo": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/144",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Midarion Logo"
+        },
+        "heroGlobal": {
+            "textDesktop": "Exclusive welcome offer of ",
+            "textMobile": "Exclusive welcome bonus of ",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/139",
+            "imageSizeModifier": 20,
+            "imageYModifier": -5,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/145",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 0,
+            "mobileImageXModifier": 0
+        },
+        "nav": {
+            "signUp": "Log In",
+            "playNow": "Sign Up"
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casinos",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "footer": {
+            "logo": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/146",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Midarion Casino"
+        }
+    },
+    "language": {
+        "code": "en",
+        "region": ""
+    },
+    "pages": [
+        {
+            "id": "index",
+            "path": "\/",
+            "name": "index",
+            "sections": {
+                "seo": {
+                    "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+                    "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, säkra insättningar och uttag. Spela med komfort och säkerhet och glöm inte att hämta din bonus!",
+                    "canonical": "#",
+                    "twitterSite": "@pafcasino"
+                },
+                "hero": {
+                    "title": "H1 title about casino"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Some text before list",
+                    "items": [
+                        "Legal and safe casino",
+                        "Quick registration",
+                        "Data protection",
+                        "No wagering bonus",
+                        "Wide range of games"
+                    ],
+                    "advantagesAfterText": "Some text after list",
+                    "knowMore": "Know more",
+                    "appTitle": "Mobile App",
+                    "mobile": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2Fmobile.cd4410fa.webp&w=384&q=75",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Mobile App",
+                    "mobileGooglePlayImageTitle": "Mobile App",
+                    "mobileIosImageTitle": "Mobile App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "History",
+                        "description1": "First paragraph of history",
+                        "items": [
+                            "History item 1",
+                            "History item 2"
+                        ],
+                        "description2": "Second paragraph of history",
+                        "image": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2FMacBook-Pro.b62d8565.webp&w=750&q=75",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Third paragraph of history"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Title for custom section",
+                        "description": "<ul><li>bonuses<\/li><li>games<\/li><li>license<\/li><li>advantages<\/li><\/ul>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Title for custom section",
+                        "description": "<ul><li>bonuses<\/li><li>games<\/li><li>license<\/li><li>advantages<\/li><\/ul>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "FAQ Question 1",
+                            "answer": "FAQ Answer 1"
+                        },
+                        {
+                            "title": "FAQ Question 2",
+                            "answer": "FAQ Answer 2"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "games",
+            "path": "\/games",
+            "name": "Games",
+            "sections": {
+                "seo": {
+                    "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+                    "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, säkra insättningar och uttag. Spela med komfort och säkerhet och glöm inte att hämta din bonus!",
+                    "canonical": "#",
+                    "twitterSite": "@pafcasino"
+                },
+                "hero": {
+                    "title": "casino games page"
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "games section",
+                        "description": "<ul><li>bonuses<\/li><li>games<\/li><li>license<\/li><li>advantages<\/li><\/ul>"
+                    }
+                }
+            }
+        },
+        {
+            "id": "app",
+            "path": "\/app",
+            "name": "App",
+            "sections": {
+                "seo": {
+                    "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+                    "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, säkra insättningar och uttag. Spela med komfort och säkerhet och glöm inte att hämta din bonus!",
+                    "canonical": "#",
+                    "twitterSite": "@pafcasino"
+                },
+                "hero": {
+                    "title": "casino app page"
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Title for custom section",
+                        "description": "<ul><li>bonuses<\/li><li>games<\/li><li>license<\/li><li>advantages<\/li><\/ul>"
+                    }
+                }
+            }
+        },
+        {
+            "id": "login",
+            "path": "\/login",
+            "name": "Login",
+            "sections": {
+                "seo": {
+                    "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+                    "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, säkra insättningar och uttag. Spela med komfort och säkerhet och glöm inte att hämta din bonus!",
+                    "canonical": "#",
+                    "twitterSite": "@pafcasino"
+                },
+                "hero": {
+                    "title": "casino login page"
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Title for custom section",
+                        "description": "<ul><li>bonuses<\/li><li>games<\/li><li>license<\/li><li>advantages<\/li><\/ul>"
+                    }
+                }
+            }
+        }
+    ]
+}
