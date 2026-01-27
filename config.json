@@ -85,7 +85,7 @@
     },
     "language": {
         "code": "en",
-        "region": ""
+        "region": "CA"
     },
     "pages": [
         {
@@ -196,9 +196,9 @@
             "sections": {
                 "seo": {
                     "title": "Midarion Games",
-                    "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, säkra insättningar och uttag. Spela med komfort och säkerhet och glöm inte att hämta din bonus!",
-                    "canonical": "grosvenorcasino-sunderland.com",
-                    "twitterSite": "@pafcasino"
+                    "description": "Paf Casino Sweden - games",
+                    "canonical": "grosvenorcasino-sunderland.com\/games",
+                    "twitterSite": "grosvenorcasino-sunderland.com\/games"
                 },
                 "hero": {
                     "title": "casino games page"
@@ -218,9 +218,9 @@
             "sections": {
                 "seo": {
                     "title": "Midarion App",
-                    "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, säkra insättningar och uttag. Spela med komfort och säkerhet och glöm inte att hämta din bonus!",
-                    "canonical": "grosvenorcasino-sunderland.com",
-                    "twitterSite": "@pafcasino"
+                    "description": "Paf Casino Sweden - app",
+                    "canonical": "grosvenorcasino-sunderland.com\/app",
+                    "twitterSite": "grosvenorcasino-sunderland.com\/app"
                 },
                 "hero": {
                     "title": "casino app page"
@@ -240,9 +240,9 @@
             "sections": {
                 "seo": {
                     "title": "Midarion Login",
-                    "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, säkra insättningar och uttag. Spela med komfort och säkerhet och glöm inte att hämta din bonus!",
-                    "canonical": "grosvenorcasino-sunderland.com",
-                    "twitterSite": "@pafcasino"
+                    "description": "Paf Casino Sweden - login",
+                    "canonical": "grosvenorcasino-sunderland.com\/login",
+                    "twitterSite": "grosvenorcasino-sunderland.com\/login"
                 },
                 "hero": {
                     "title": "casino login page"
