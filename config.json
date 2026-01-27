@@ -38,7 +38,7 @@
             "icon192": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/140"
         },
         "seoGlobal": {
-            "name": "Paf Casino Sverige",
+            "name": "Midarion Casino",
             "ogImage": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/141",
             "ogImageWidth": 1200,
             "ogImageHeight": 630,
@@ -94,9 +94,9 @@
             "name": "index",
             "sections": {
                 "seo": {
-                    "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+                    "title": "Midarion Main",
                     "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, säkra insättningar och uttag. Spela med komfort och säkerhet och glöm inte att hämta din bonus!",
-                    "canonical": "#",
+                    "canonical": "grosvenorcasino-sunderland.com",
                     "twitterSite": "@pafcasino"
                 },
                 "hero": {
@@ -195,9 +195,9 @@
             "name": "Games",
             "sections": {
                 "seo": {
-                    "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+                    "title": "Midarion Games",
                     "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, säkra insättningar och uttag. Spela med komfort och säkerhet och glöm inte att hämta din bonus!",
-                    "canonical": "#",
+                    "canonical": "grosvenorcasino-sunderland.com",
                     "twitterSite": "@pafcasino"
                 },
                 "hero": {
@@ -217,9 +217,9 @@
             "name": "App",
             "sections": {
                 "seo": {
-                    "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+                    "title": "Midarion App",
                     "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, säkra insättningar och uttag. Spela med komfort och säkerhet och glöm inte att hämta din bonus!",
-                    "canonical": "#",
+                    "canonical": "grosvenorcasino-sunderland.com",
                     "twitterSite": "@pafcasino"
                 },
                 "hero": {
@@ -239,9 +239,9 @@
             "name": "Login",
             "sections": {
                 "seo": {
-                    "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+                    "title": "Midarion Login",
                     "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, säkra insättningar och uttag. Spela med komfort och säkerhet och glöm inte att hämta din bonus!",
-                    "canonical": "#",
+                    "canonical": "grosvenorcasino-sunderland.com",
                     "twitterSite": "@pafcasino"
                 },
                 "hero": {
