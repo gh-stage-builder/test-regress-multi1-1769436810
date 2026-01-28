@@ -1,51 +1,51 @@
 {
     "globalSections": {
         "styles": {
-            "bg": "#852ec3",
+            "bg": "#1A1A1A",
             "lang-select-color": "#222829",
-            "bg-light": "#470788",
-            "welcome-bonus-bg": "#420586",
-            "top-games-hover-fg": "#30faae",
-            "main-bg": "#5912a1",
+            "bg-light": "#1A1A1A",
+            "welcome-bonus-bg": "#1A1A1A",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#232323",
             "text": "#ffffff",
             "text-black": "#ffffff",
-            "table-head": "#852ec3",
+            "table-head": "#00CD70",
             "text-head": "#ffffff",
             "hero-title-text": "#222829",
-            "welcome-bonus-text": "#05773b",
-            "yellow": "#ffa91e",
-            "yellow-button": "#30faae",
-            "button-text": "#5912a1",
+            "welcome-bonus-text": "#6024BF",
+            "yellow": "#00CD70",
+            "yellow-button": "#6024BF",
+            "button-text": "#ffffff",
             "border-color": "#efefdc",
-            "casino-cards": "#420586",
+            "casino-cards": "#1A1A1A",
             "bonus-border-head": "#efefdc",
-            "bonus-border": "#000033",
-            "providers-back": "#420586",
-            "faq-label": "#420586",
-            "bg-footer": "#420586",
+            "bonus-border": "#606066",
+            "providers-back": "#1A1A1A",
+            "faq-label": "#1A1A1A",
+            "bg-footer": "#1A1A1A",
             "copyright": "#e7e7d5",
-            "starColor": "#17d26a",
+            "starColor": "#00CD70",
             "baseFont": {
-                "value": "https:\/\/stage.backend.builder.adkey.org:443\/api\/fonts\/download\/14",
-                "isCustom": true
+                "value": "Roboto",
+                "isCustom": false
             },
             "primaryFont": {
-                "value": "Roboto",
+                "value": "Inter",
                 "isCustom": false
             }
         },
         "icons": {
-            "icon192": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/140"
+            "icon192": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/166"
         },
         "seoGlobal": {
             "name": "Midarion Casino",
-            "ogImage": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/141",
+            "ogImage": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/167",
             "ogImageWidth": 1200,
             "ogImageHeight": 630,
-            "favicon": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/142"
+            "favicon": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/168"
         },
         "header": {
-            "logo": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/144",
+            "logo": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/172",
             "imageSizeModifier": 0,
             "imageYModifier": 0,
             "imageXModifier": 0,
@@ -56,11 +56,11 @@
             "textMobile": "Exclusive welcome bonus of ",
             "playGame": "Play game",
             "claimBonus": "Claim Bonus",
-            "image": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/139",
-            "imageSizeModifier": 20,
-            "imageYModifier": -5,
+            "image": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/170",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
             "imageXModifier": 0,
-            "mobileImage": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/145",
+            "mobileImage": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/171",
             "mobileImageSizeModifier": 0,
             "mobileImageYModifier": 0,
             "mobileImageXModifier": 0

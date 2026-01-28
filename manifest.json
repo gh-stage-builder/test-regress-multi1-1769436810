@@ -2,14 +2,14 @@
   "name": "",
   "short_name": "",
   "theme_color": "",
-  "background_color": "#852ec3",
+  "background_color": "#1A1A1A",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
   "start_url": "/",
   "icons": [
     {
-      "src": "_assets/images/1769435755-ikonka.webp",
+      "src": "_assets/images/1769592759-favicon-25.svg",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "maskable any"
