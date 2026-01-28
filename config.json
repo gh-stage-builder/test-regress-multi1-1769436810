@@ -16,6 +16,7 @@
             "yellow": "#00CD70",
             "yellow-button": "#6024BF",
             "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
             "border-color": "#efefdc",
             "casino-cards": "#1A1A1A",
             "bonus-border-head": "#efefdc",
@@ -38,7 +39,7 @@
             "icon192": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/166"
         },
         "seoGlobal": {
-            "name": "Midarion Casino",
+            "name": "Grosvenor Casino Sunderland",
             "ogImage": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/167",
             "ogImageWidth": 1200,
             "ogImageHeight": 630,
@@ -49,7 +50,7 @@
             "imageSizeModifier": 0,
             "imageYModifier": 0,
             "imageXModifier": 0,
-            "logoAlt": "Midarion Logo"
+            "logoAlt": "Grosvenor Casino Sunderland Logo"
         },
         "heroGlobal": {
             "textDesktop": "Exclusive welcome offer of ",
@@ -61,8 +62,8 @@
             "imageYModifier": -3,
             "imageXModifier": 0,
             "mobileImage": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/171",
-            "mobileImageSizeModifier": 0,
-            "mobileImageYModifier": 0,
+            "mobileImageSizeModifier": -10,
+            "mobileImageYModifier": 2,
             "mobileImageXModifier": 0
         },
         "nav": {
@@ -76,11 +77,11 @@
             "welcomeBonusText": "Welcome bonus"
         },
         "footer": {
-            "logo": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/146",
+            "logo": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/174",
             "imageSizeModifier": 0,
             "imageYModifier": 0,
             "imageXModifier": 0,
-            "copyright": "Midarion Casino"
+            "copyright": "Grosvenor Casino Sunderland"
         }
     },
     "language": {
@@ -94,13 +95,13 @@
             "name": "index",
             "sections": {
                 "seo": {
-                    "title": "Midarion Main",
-                    "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, säkra insättningar och uttag. Spela med komfort och säkerhet och glöm inte att hämta din bonus!",
+                    "title": "rosvenor Casino Sunderland | Casino Games, Poker, Slots & Live Sport",
+                    "description": "Discover Grosvenor Casino Sunderland: table games, poker, slots, bar & dining, and what’s on. Plan your visit today.",
                     "canonical": "grosvenorcasino-sunderland.com",
-                    "twitterSite": "@pafcasino"
+                    "twitterSite": "grosvenorcasino-sunderland.com"
                 },
                 "hero": {
-                    "title": "H1 title about casino"
+                    "title": "Grosvenor Casino Sunderland – Casino, Poker and Live Sport"
                 },
                 "bonusDetails": {
                     "title": "Bonus Details",
@@ -118,24 +119,26 @@
                 },
                 "advantages": {
                     "title": "Advantages",
-                    "advantagesBeforeText": "Some text before list",
+                    "advantagesBeforeText": "",
                     "items": [
-                        "Legal and safe casino",
-                        "Quick registration",
-                        "Data protection",
-                        "No wagering bonus",
-                        "Wide range of games"
+                        "Roulette and blackjack for classic thrills.",
+                        "Electronic roulette from just 10p bets.",
+                        "Popular slots and electronic terminals daily. ",
+                        "Grosvenor One members unlock bonuses and offers.",
+                        "Live poker for authentic table action.",
+                        "Bar and dining for a full night.",
+                        "Live sport, on‑site parking, disabled access."
                     ],
-                    "advantagesAfterText": "Some text after list",
+                    "advantagesAfterText": "At our Grosvenor Casino Sunderland, we bring games, live poker, live sport and dining together for a complete night out.",
                     "knowMore": "Know more",
-                    "appTitle": "Mobile App",
-                    "mobile": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2Fmobile.cd4410fa.webp&w=384&q=75",
+                    "appTitle": "Grosvenor Casino Sunderland App",
+                    "mobile": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/179",
                     "imageSizeModifier": 0,
                     "imageYModifier": 0,
                     "imageXModifier": 0,
-                    "mobileAlt": "Mobile App",
-                    "mobileGooglePlayImageTitle": "Mobile App",
-                    "mobileIosImageTitle": "Mobile App"
+                    "mobileAlt": "Grosvenor Casino Sunderland App",
+                    "mobileGooglePlayImageTitle": "Grosvenor Casino Sunderland App",
+                    "mobileIosImageTitle": "Grosvenor Casino Sunderland App"
                 },
                 "games": {
                     "playNowText": "Play now",
@@ -144,25 +147,26 @@
                 },
                 "about": {
                     "history": {
-                        "title": "History",
-                        "description1": "First paragraph of history",
+                        "title": "About Grosvenor Casino Sunderland",
+                        "description1": "We stand out by blending live gaming, slots, and poker in one energetic venue. It’s easy to move between tables, the bar, and live sport while keeping your night flowing.\n",
                         "items": [
-                            "History item 1",
-                            "History item 2"
+                            "Up to £10,000 jackpots.",
+                            "Bonus play up to £25.",
+                            "Winnings up to £2,000+."
                         ],
-                        "description2": "Second paragraph of history",
-                        "image": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2FMacBook-Pro.b62d8565.webp&w=750&q=75",
+                        "description2": "Our casino is where your night starts effortlessly and stays exciting. We welcome you warmly and help you settle in quickly. On the floor you’ll find classic table games alongside modern gaming options. ",
+                        "image": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/181",
                         "imageSizeModifier": 0,
                         "imageYModifier": 0,
                         "imageXModifier": 0,
                         "imageAlt": "History",
-                        "description3": "Third paragraph of history"
+                        "description3": "The atmosphere is stylish and comfortable, making the whole experience feel special. You can visit for the fast pace of roulette or the steady strategy of blackjack. For poker fans, we provide a lively space for strong play and great social energy. In our slots area, there’s always a chance to catch that perfect run. Our bar and lounge make it easy to take a break and jump back in refreshed. We keep entry rules clear and security strong so you can relax. Every visit blends entertainment, service, and real casino thrill.\n"
                     }
                 },
                 "custom": {
                     "customHtml": {
-                        "title": "Title for custom section",
-                        "description": "<ul><li>bonuses<\/li><li>games<\/li><li>license<\/li><li>advantages<\/li><\/ul>"
+                        "title": "Our atmosphere, entertainment, and your perfect night at Grosvenor Casino Sunderland",
+                        "description": "\n\n<p>\nStep into a modern, city-style venue with warm lighting, polished interiors, and a “special occasion” feel from the moment you arrive. We create an atmosphere that suits both first-time visitors and seasoned players who enjoy a confident pace. It’s easy to find your rhythm: energetic live tables, a more relaxed slots area, or a break at the bar. Our service stays friendly and attentive so you feel genuinely welcomed. The layout is designed to keep your night flowing smoothly as you move around.\n\n<\/p>\n<br>\n\n\n<p>\nOur opening hours work with different plans: a daytime visit for light play and food, or an evening session when the venue truly comes alive. Late hours bring extra energy, more excitement, and more reasons to stay for “just one more game”. We time our live table action for the best evening experience, so you get that real casino buzz when you want it most. At the same time, we keep everything controlled and comfortable with clear house rules. This balance lets you relax while still enjoying authentic thrills.\n\n<\/p>\n<br>\n<p>\nOur bar is more than a drinks counter—it’s part of the experience. It’s the ideal spot to celebrate a win, talk through a great hand, or reset between games. The lounge area adds comfort and a sense of privacy even during busy periods, supported by a soundtrack that suits the night. We also put a spotlight on live sport, so you can combine big matches with a great casino atmosphere. That mix makes the venue perfect for friends, date nights, and group outings.\n\n<\/p>\n<br>\n<p>\nIf you love events, there’s always a reason to visit today: themed nights, gaming moments, poker meet-ups, and menu-led experiences. We design entertainment to enhance the excitement of play, not distract from it. You can plan ahead or drop in on impulse—our format suits both. We keep the energy high while maintaining comfort so the night stays enjoyable right through closing. Even if you come “just for a look”, it quickly feels like the right place to be.\n\n<\/p>\n<br>\n<p>\nA key part of our experience is the way we reward your time with us through offers and guest perks. We value regular visitors and make newcomers feel appreciated from the start. Rewards fit naturally into the night: play, dining, drinks, and added benefits combine into one seamless experience. We want every visit to feel not only exciting, but genuinely worthwhile. That’s why people return—easily, comfortably, and with real enjoyment.\n\n<\/p>\n<br>\n\n"
                     }
                 },
                 "softwareProviders": {
@@ -170,20 +174,24 @@
                 },
                 "custom_2": {
                     "customHtml_2": {
-                        "title": "Title for custom section",
-                        "description": "<ul><li>bonuses<\/li><li>games<\/li><li>license<\/li><li>advantages<\/li><\/ul>"
+                        "title": "Entertainment and Gaming at Grosvenor Casino Sunderland",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and special offers — more excitement in every game\n<\/h3>\n\n<p>\nWe love making your visits feel bigger and brighter, which is why we regularly run game-led offers and special promotions that enhance the experience. These moments help you try new formats, add extra energy, and enjoy more without complication. We often tie offers to specific games so you can choose what you genuinely love—slots, roulette, blackjack, or poker. We also focus on high-atmosphere evenings where music, live sport, and gaming come together in one seamless night out. For groups, we can shape offers that are easy to plan, keeping the evening effortless and fun. Seasonal moments bring a celebratory feel and keep visits fresh throughout the year. We design promos to be clear: what to do, what you receive, and how to use it. Our team helps you understand the details quickly so you can jump straight into the action. You get not only the thrill of play, but the feeling that the night is made for you. And you always stay in control—join promos or simply play your own way.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nOffers and specials\n<\/h4>\n\n <ul>\n            <li>• \nWelcome Free Play up to £10–£25: a strong start for new guests to make your first visit memorable.\n\n<\/li>\n            <li>• \n“Spin & Win” slot events with prizes up to £500: promo mechanics that add extra winning moments.\n\n<\/li>\n            <li>• \nJackpot slots with tiers up to £10,000: a chance to land a standout win in the slots area.\n\n<\/li>\n            <li>• \nPoker tournaments with prize pools from £500 to £3,000: competitive play for bold hands and big nights.\n\n<\/li>\n\t    <li>• \nCash poker “High Hand” promo up to £200: extra rewards for standout combinations during the session.\n\n<\/li>\n            <li>• \nRoulette promos with stake boosts up to £20: add pace and excitement while keeping your style.\n\n<\/li>\n            <li>• \nBlackjack “Dealer Challenge” moments up to £50: table-led mini-events that lift the energy.\n\n<\/li>\n            <li>• \n“Game & Dine” value up to £15–£30: a simple way to combine play and dining in one plan.\n\n<\/li>\n            <li>• \nLive sport nights with entertainment extras up to £10: big matches paired with added perks.\n\n<\/li>\n\t    <li>• \nSeasonal prize draws up to £1,000: themed weeks, festive nights, and additional rewards.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetting ranges in our casino — choose your ideal level of play\n<\/h3>\n\n<p> \nWe offer flexible limits so you can play in a way that feels right—whether you prefer modest stakes for a relaxed night or higher amounts for a more intense session. This approach helps first-timers start comfortably while giving experienced guests the levels they enjoy. Limits can vary by table, time, and game format, so it’s easy to find the right seat for your style. Our team can confirm the current limits on the floor and help you get oriented quickly.\n\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #00CD70\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #000000; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #000000; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #000000; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£400<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£2,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Three Card Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£500<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Ultimate Texas Hold’em <\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£500<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Poker (cash, blinds)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1\/2<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£5\/10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #000000;\">\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£100<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Electronic roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£100<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n"
                     }
                 },
                 "faq": {
                     "title": "Frequently Asked Questions",
                     "items": [
                         {
-                            "title": "FAQ Question 1",
-                            "answer": "FAQ Answer 1"
+                            "title": "Can I learn to play with you?",
+                            "answer": "Absolutely—our team can explain the basics and guide you to a comfortable starting format so you feel confident.\n\n\n"
                         },
                         {
-                            "title": "FAQ Question 2",
-                            "answer": "FAQ Answer 2"
+                            "title": "Can I bring a large amount of cash?",
+                            "answer": "We follow security and transaction controls, and we may ask for details where needed to protect you and the venue.\n\n\n"
+                        },
+                        {
+                            "title": "Do you support safer gambling tools?",
+                            "answer": "Yes—we support safer play and can help with guidance and practical options if you want more control.\n\n\n"
                         }
                     ]
                 }
@@ -195,18 +203,18 @@
             "name": "Games",
             "sections": {
                 "seo": {
-                    "title": "Midarion Games",
-                    "description": "Paf Casino Sweden - games",
+                    "title": "Games at our Grosvenor Casino Sunderland: live tables, poker, slots, roulette and blackjack",
+                    "description": "Explore games with us: live roulette and blackjack, poker cash games and tournaments, slots with bonus rounds, plus convenient electronic formats. Enjoy a welcoming atmosphere and friendly support throughout your visit.",
                     "canonical": "grosvenorcasino-sunderland.com\/games",
                     "twitterSite": "grosvenorcasino-sunderland.com\/games"
                 },
                 "hero": {
-                    "title": "casino games page"
+                    "title": "Games at our Grosvenor Casino Sunderland — roulette, blackjack, poker and slots"
                 },
                 "custom": {
                     "customHtml": {
-                        "title": "games section",
-                        "description": "<ul><li>bonuses<\/li><li>games<\/li><li>license<\/li><li>advantages<\/li><\/ul>"
+                        "title": "Popular games in our casino — classic favourites and modern energy",
+                        "description": "\n<p>\nWith us, it’s easy to find a game that matches your mood because we bring the most loved casino formats together in one place. If you enjoy live interaction and quick decisions, dealer-led tables deliver that unmistakable buzz every round. Roulette is all about pace and emotion—you choose your approach and chase the perfect timing. Blackjack appeals to players who like control and calculation, where decisions genuinely shape outcomes. We treat poker as a culture of its own, built on experience, confidence, and reading the table’s rhythm. Slots offer a different kind of excitement—fast flow, bonus rounds, and the thrill of a strong run. We also offer electronic options that let you play at your own pace and explore different stakes comfortably. If you’re new, we help you start calmly with clear, simple explanations. If you’re experienced, we keep the tempo and atmosphere ideal for focus. The result is a full choice—from timeless classics to modern play styles.\n\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nOur popular games\n<\/h4>\n\n <ul>\n            <li>• \nRoulette: fast-paced classic where you pick stakes and strategies each spin.\n\n<\/li>\n            <li>• \nElectronic roulette: quick, convenient play with a smooth personal tempo.\n\n<\/li>\n            <li>• \nBlackjack: decision-driven gameplay with strategy and confident risk control.\n\n<\/li>\n            <li>• \nThree Card Poker: lively pace, simple rules, and exciting outcomes.\n\n<\/li>\n\t    <li>• \nPoker (cash games): live action with varied styles and strong table energy.\n\n<\/li>\n\t    <li>• \nPoker (tournaments): competitive sessions with a real “challenge” feel and payouts.\n\n<\/li>\n\t    <li>• \nSlots: broad selection with bonus rounds and jackpot mechanics for standout moments.\n\n\n<\/li>\n        <\/ul><br>\n"
                     }
                 }
             }
@@ -217,18 +225,18 @@
             "name": "App",
             "sections": {
                 "seo": {
-                    "title": "Midarion App",
-                    "description": "Paf Casino Sweden - app",
+                    "title": "Grosvenor Casino Sunderland app: offers, bonuses, games and booking",
+                    "description": "Use our app to access personalised offers, keep up with promotions and events, plan your visit, and quickly find what you need about games, menus, and entertainment. Everything for a smooth night out—right in one convenient place.",
                     "canonical": "grosvenorcasino-sunderland.com\/app",
                     "twitterSite": "grosvenorcasino-sunderland.com\/app"
                 },
                 "hero": {
-                    "title": "casino app page"
+                    "title": " Grosvenor Casino Sunderland app — offers, events and an easy visit"
                 },
                 "custom": {
                     "customHtml": {
-                        "title": "Title for custom section",
-                        "description": "<ul><li>bonuses<\/li><li>games<\/li><li>license<\/li><li>advantages<\/li><\/ul>"
+                        "title": "Our loyalty programme — benefits, bonuses, and tier levels",
+                        "description": "<p>\nWe love welcoming you back, so our loyalty programme turns every visit into added value. You can benefit not only from play but also from your night out, as rewards can reflect activity at tables, in the slots area, and spending in the bar and restaurant. Registration is designed to be quick, so you can start enjoying benefits the very same evening. Our tier structure rewards consistency: the more you visit, the more meaningful your perks become. We focus on practical value—from extra game offers to treats that enhance your experience. Conditions are clear, and your progress is easy to follow so you can see your status grow. The programme works for both newcomers and experienced players who appreciate comfort, limits, and a more personal feel. We refresh benefits regularly to keep things exciting. Members find it easier to receive invitations to events and special gaming moments. Everything is built so you feel genuinely valued.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration conditions:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge: 18+ with photo ID for profile setup.\n\n<\/li>\n            <li>• \nDetails: name and basic contact information to track rewards.\n\n<\/li>\n            <li>• \nActivation: start earning and using perks right after joining.\n\n<\/li>\n            <li>• \nEarning: through play and bar\/restaurant spend, depending on daily terms.\n\n<\/li>\n\t    <li>• \nAccount: one profile per guest for accurate tracking.\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLevel 1 “Classic” — entry tier: activated on sign-up; includes a welcome bonus up to £10 Free Play.\n\n<\/li>\n            <li>• \nLevel 2 “Silver” — regular guest: reached through consistent visits and play; faster earning and up to £20 Free Play on selected days.\n\n<\/li>\n            <li>• \nLevel 3 “Gold” — priority: unlocked through higher activity; adds tailored offers and enhanced bonuses up to £30 Free Play.\n\n<\/li>\n            <li>• \nLevel 4 “Platinum” — premium: for top active guests; maximum perks including up to £50 Free Play and priority event invitations.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll available bonuses and perks:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nFree Play up to £10–£50: extra game funds on promo days to elevate your session.\n\n<\/li>\n            <li>• \nPoints boost up to 2×: helps you reach higher tiers faster.\n\n<\/li>\n            <li>• \nBirthday treat: a special gesture from us to celebrate your day.\n\n<\/li>\n            <li>• \nPersonalised offers: targeted game rewards and invitations matched to your style.\n\n<\/li>\n\t    <li>• \nDining & drinks perks: special menu and bar offers when available.\n\n<\/li>\n\n\t    <li>• \nEvent access: priority invitations to themed nights and gaming activities.\n\n\n<\/li>\n        <\/ul><br>\n"
                     }
                 }
             }
@@ -239,18 +247,18 @@
             "name": "Login",
             "sections": {
                 "seo": {
-                    "title": "Midarion Login",
-                    "description": "Paf Casino Sweden - login",
+                    "title": "Login at our Grosvenor Casino Sunderland: sign in, offers, bookings and events",
+                    "description": "Sign in to your account to manage your profile, access personalised offers, view available bonuses, and plan your visit. Our simple login gets you back to your favourite games, menus, and entertainment quickly—while keeping your experience secure and smooth.",
                     "canonical": "grosvenorcasino-sunderland.com\/login",
                     "twitterSite": "grosvenorcasino-sunderland.com\/login"
                 },
                 "hero": {
-                    "title": "casino login page"
+                    "title": "Login to your account at our Grosvenor Casino Sunderland — quick access to offers and visits"
                 },
                 "custom": {
                     "customHtml": {
-                        "title": "Title for custom section",
-                        "description": "<ul><li>bonuses<\/li><li>games<\/li><li>license<\/li><li>advantages<\/li><\/ul>"
+                        "title": "Entry rules and how to find us — simple and convenient",
+                        "description": "<p>\nWe keep visiting straightforward so you can focus on enjoying your time. Entry is for adults only, and we may request photo ID to confirm age when needed. We maintain a smart casual dress code to keep the venue looking and feeling great for everyone. Inside, respectful behaviour and basic safety rules protect guests and the integrity of play. We ask you to respect other visitors’ privacy and avoid disrupting the gaming flow. Photos and videos in gaming areas must follow house rules and privacy expectations. We do not tolerate aggressive behaviour and we preserve a comfortable atmosphere at all times. If you’re coming with friends, arriving a little earlier helps you settle in and choose your perfect spots. Clear signage and our team make it easy to navigate the venue. Getting here is simple on foot, by public transport, or by car. Parking adds extra convenience for drivers.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCore entry rules:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge & ID: 18+ entry; if you look under the age threshold, we’ll ask for photo identification.\n\n<\/li>\n            <li>• \nDress code: smart casual; neat footwear and a tidy look help keep the atmosphere comfortable.\n\n<\/li>\n            <li>• \nConduct: respectful behaviour, following staff guidance, and consideration for other guests.\n\n<\/li>\n            <li>• \nSecurity: standard entry measures may apply; we keep the environment calm and well managed.\n\n<\/li>\n\t    <li>• \nProhibited behaviour: aggression, interference with play, disruption, or privacy breaches are not allowed.\n\n<\/li>\n\t    <li>• \nPhotography & filming: privacy comes first; filming in gaming areas is only within house rules.\n\n\n<\/li>\n        <\/ul><br>\n\n"
                     }
                 }
             }
