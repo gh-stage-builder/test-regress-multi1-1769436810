@@ -43,10 +43,10 @@
             "ogImage": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/167",
             "ogImageWidth": 1200,
             "ogImageHeight": 630,
-            "favicon": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/168"
+            "favicon": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/203"
         },
         "header": {
-            "logo": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/172",
+            "logo": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/202",
             "imageSizeModifier": 0,
             "imageYModifier": 0,
             "imageXModifier": 0,
@@ -85,8 +85,8 @@
         }
     },
     "language": {
-        "code": "en",
-        "region": "CA"
+        "code": "fr",
+        "region": "FR"
     },
     "pages": [
         {
@@ -209,7 +209,7 @@
                     "twitterSite": "grosvenorcasino-sunderland.com\/games"
                 },
                 "hero": {
-                    "title": "Games at our Grosven"
+                    "title": "Games Grosven"
                 },
                 "custom": {
                     "customHtml": {
@@ -231,7 +231,7 @@
                     "twitterSite": "grosvenorcasino-sunderland.com\/app"
                 },
                 "hero": {
-                    "title": " Grosvenor Casino Sunderland app — offers, events and an easy visit"
+                    "title": " Grosvenor Casino Sunderland app "
                 },
                 "custom": {
                     "customHtml": {
@@ -253,7 +253,7 @@
                     "twitterSite": "grosvenorcasino-sunderland.com\/login"
                 },
                 "hero": {
-                    "title": "Login to your account at our Grosvenor Casino Sunderland — quick access to offers and visits"
+                    "title": "Login to your account"
                 },
                 "custom": {
                     "customHtml": {
